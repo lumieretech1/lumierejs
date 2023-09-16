@@ -5,6 +5,7 @@ LumièreJS is a social network for developers, built to support teamwork. This p
 Give your team an open source socializing system for teamwork
 
 ## Features
+Discover the useful feature inside LumièreJS
 ### A social network for web developers
 The framework provides a platform for web developers to connect with each other, share content, and collaborate on projects.
 ### Easy to use
@@ -17,3 +18,6 @@ The framework is designed to scale to support a large number of users.
 The framework can be customized to meet the specific needs of a community
 ### Open source
 The framework is open source, which allows anyone to contribute to its development
+
+# 1. Chat with other developers, create team and more
+Messaging, comments, notes, teams and more insite your HTML with LumièreJS
