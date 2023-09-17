@@ -18,6 +18,3 @@ The framework is designed to scale to support a large number of users.
 The framework can be customized to meet the specific needs of a community
 ### Open source
 The framework is open source, which allows anyone to contribute to its development
-
-# 1. Chat with other developers, create team and more
-Messaging, comments, notes, teams and more insite your HTML with LumièreJS
